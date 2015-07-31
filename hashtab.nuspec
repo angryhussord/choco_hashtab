@@ -15,7 +15,7 @@
     <copyright>http://implbits.com/about/</copyright>
     <licenseUrl>http://implbits.com/products/hashtab/</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <!--<iconUrl></iconUrl>-->
+    <iconUrl>https://cdn.rawgit.com/angryhussord/choco_hashtab/2fd38182103b99f1ca59b459ffa4e5cf6bfc4e7b/hashtab-icon.png</iconUrl>
     <!--<dependencies>
       <dependency id="" version="" />
     </dependencies>-->
