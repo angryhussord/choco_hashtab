@@ -1,6 +1,6 @@
 ﻿$packageName = 'hashtab' 
 $installerType = 'exe' 
-$url = 'http://downloads.implbits.com/v1/content/4Jg3JKtKbCKUgGYDSScHD4/HashTab_v5.2.0.14_Setup.exe' 
+$url = 'http://implbits.com/bl/chocolatey/non-commercial/HashTab_v5.2.0.14_Setup.exe' 
 $silentArgs = '/S' 
 $validExitCodes = @(0) 
 
