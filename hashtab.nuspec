@@ -14,6 +14,8 @@
     <tags>hash md5 sha1 sha2 ripemd haval whirlpool checksum file sha3</tags>
     <copyright>http://implbits.com/about/</copyright>
     <licenseUrl>http://implbits.com/products/hashtab/</licenseUrl>
+    <packageSourceUrl>https://github.com/angryhussord/choco_hashtab</packageSourceUrl>
+    <mailingListUrl>http://implbits.com/support/</mailingListUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://cdn.rawgit.com/angryhussord/choco_hashtab/2fd38182103b99f1ca59b459ffa4e5cf6bfc4e7b/hashtab-icon.png</iconUrl>
     <!--<dependencies>
