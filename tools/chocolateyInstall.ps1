@@ -2,7 +2,7 @@
 
 $packageName = 'hashtab';
 $installerType = 'exe';
-$url = 'http://implbits.com/products/hashtab/HashTab_v6.0.0.28_Setup.exe';
+$url = 'http://implbits.com/products/hashtab/HashTab_v6.0.0.34_Setup.exe';
 
 $packageArgs = @{
   packageName   = $packageName
@@ -13,7 +13,7 @@ $packageArgs = @{
   silentArgs    = '/S'
   validExitCodes= @(0)
   softwareName  = 'hashtab'
-  checksum      = '472420807787F665BD36C07D45E51374DFF5D4215C568DD05E5672D56196F48A'
+  checksum      = 'B8FF1DD80F370B137922A9DD2D8B04E16FD4F8681458F92C566E65E2E80724AD'
   checksumType  = 'sha256'
 };
 
